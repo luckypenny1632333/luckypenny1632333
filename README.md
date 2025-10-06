@@ -3,9 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO.;I+AM+A+SENIOR+SOFTWARE+ENGINEER.;I+AM+A+FULLSTACK+WEB+DEVELOPER.;ALSO+AN+EXPERIENCED+BLOCKCHAIN+ENGINEER.;AND+SOPHISTICATED+AI+ENGINEER.;WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
   
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
-<h4 align="center">👯Let's make "Success" Together!👯</h4><br>
-🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
-Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow.
+<h4 align="center">👯Let's make "Success" Together!👯</h4>
+<br>
+Senior Software Engineer with 8+ years of experience in designing, developing and deploying high-impact full stack web & mobile applications, blockchain decentralized applications and AI-powered SaaS platform.
+
+**Technical Expertise**:
+
+ - Frontend development (React, Next.js, Redux, Vue.js, Tailwind CSS, Java)
+ - Backend development (Node.js, Nest.js, MongoDB, PostgreSQL, Python, FastAPI, Firebase, AWS)
+ - Mobile App development (React Native, Flutter, Ionic Capacitor)
+ - DeFi protocol architecture, smart contract optimization and Cross-chain interoperability solutions (Solidity, Hardhat, Rust, Anchor)
+ - AI agent development (Python, LangChain, LangGraph, RAG, MCP, Twilio, Vapi, ElevenLabs, OpenAI)
+
 <br>
 <h4 align="center">🔥 My skills 🔥</h4>
 <hr>
@@ -49,25 +58,6 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 <hr>
-<br>
-<h4 align="center">🔥 Personal Qualities 🔥</h4>
-<hr>
-<br>
-<div>
-<img align="right" alt="GIF" src="https://github.com/luckypenny1632333/luckypenny1632333/blob/master/code.gif?raw=true" width="50%" />
-⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
-⚡Fast response and good communication skills.<br>
-⚡well-organized/commented code.<br>
-⚡SEO friendly, semantic markup, and load speed optimization.<br>
-⚡Testing and cross-browser / cross-device compatibility.<br>
-<p>
-    🔭I am a responsible and purposeful person, I can easily interact with the development team, because I have experience working in a team, I can clearly follow the deadline without compromising the quality of the code.
-Close contact with you is very important for me, to avoid misunderstandings in the development process and to save time on the long end.
-Courage, It's not too late to build a better world.
-Alone we can do so little; together we can do so much.    
-</p>
-</div>
-
 <hr/>
 
 <h2 align="center"> 👯Let's go together!👯 </h2>
