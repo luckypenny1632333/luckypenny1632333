@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenpiao0822&label=Profile%20views&color=0e75b6&style=flat" alt="stevenpiao0822" /> </p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO.;I+AM+A+SENIOR+SOFTWARE+ENGINEER.;I+AM+A+FULLSTACK+WEB+DEVELOPER.;ALSO+AN+EXPERIENCED+BLOCKCHAIN+ENGINEER.;AND+SOPHISTICATED+AI+ENGINEER.;WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
   
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
